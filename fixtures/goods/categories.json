@@ -1,0 +1,23 @@
+[
+  {
+    "model": "goods.categories",
+    "pk": 1,
+    "fields": { "name": "Все товары", "slug": "all" }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 2,
+    "fields": { "name": "Куклы", "slug": "kukly" }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 3,
+    "fields": { "name": "Брелки", "slug": "brelki" }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 4,
+    "fields": { "name": "Игрушки", "slug": "igrushki" }
+  }
+  
+]

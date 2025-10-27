@@ -1,0 +1,269 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "Китенок",
+            "slug": "kityonok",
+            "description": "Милый китенок-клубничка станет вам другом. Он так весело улыбается, что поднимет настроение) Для его создания использовались яркие, жизнерадостные цвета.",
+            "image": "goods_images/kityonok1.jpg",
+            "price": "450.00",
+            "discount": "10.00",
+            "quantity": 10,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "Авокадик и косточка",
+            "slug": "Avokadik-i-kostochka",
+            "description": "Они никогда не расстаются.",
+            "image": "goods_images/Avokadik-i-kostochka1.jpg",
+            "price": "450.00",
+            "discount": "2.50",
+            "quantity": 7,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "Божья коровка",
+            "slug": "Bozhya-korovka",
+            "description": "Прикольная и смешная букашка, работает в компании- мастерская настроения)",
+            "image": "goods_images/Bozhya-korovka1.jpg",
+            "price": "350.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "Брокколя",
+            "slug": "Brokkolya",
+            "description": "Очень прикольный (попкорн и брокколь два в одном)",
+            "image": "goods_images/Brokkolya1.jpg",
+            "price": "365.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "Человечек",
+            "slug": "chelovechek",
+            "description": " Это человечик может встать в любую позу как захотите, хоть он и грусный но вы от его поз станете радосными))",
+            "image": "goods_images/chelovechek1.jpg",
+            "price": "400.00",
+            "discount": "5.00",
+            "quantity": 8,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "Дракончик",
+            "slug": "drakonchik",
+            "description": "Угловой диван, раскладывается в двухспальную кровать, для гостинной и приема гостей самое то!",
+            "image": "goods_images/drakonchik1.jpg",
+            "price": "550.00",
+            "discount": "2.00",
+            "quantity": 8,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "Грибочек",
+            "slug": "Gribochkek",
+            "description": "Эти грибочки антистресc - пjдёргаешь за шаgочку сразу станет легче).",
+            "image": "goods_images/Gribochki1.jpg",
+            "price": "450.00",
+            "discount": "0.00",
+            "quantity": 6,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "Гусь-обнимусь",
+            "slug": "gus-obnimus",
+            "description": "Жили у бабуси два веселых гуся...",
+            "image": "goods_images/gus-obnimus1.jpg",
+            "price": "350.00",
+            "discount": "5.00",
+            "quantity": 5,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "Котик-почтальон",
+            "slug": "Kotik-pochtalon",
+            "description": "Очень милый шапочку можно снять и надеть также как и сумочку и придумать что-нибуть своё).",
+            "image": "goods_images/Kotik-pochtalon1.jpg",
+            "price": "300.00",
+            "discount": "5.00",
+            "quantity": 3,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 10,
+        "fields": {
+            "name": "Красавица",
+            "slug": "Krasavica",
+            "description": "До чего ж я хороша...",
+            "image": "goods_images/flower.jpg",
+            "price": "650.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 11,
+        "fields": {
+            "name": "Куколка-клубничка",
+            "slug": "Kukolka-klubnichka",
+            "description": "Милая куколка станет твоей подружкой) Любит яркие наряды).",
+            "image": "goods_images/Kukolka-klubnichka2.jpg",
+            "price": "1500.00",
+            "discount": "5.00",
+            "quantity": 1,
+            "category": 2
+        }
+    }
+    ,
+    {
+        "model": "goods.products",
+        "pk": 12,
+        "fields": {
+            "name": "Лягушечка",
+            "slug": "Lyugushechka",
+            "description": "Лягушечка-валентинка.",
+            "image": "goods_images/Lyugushechka1.jpg",
+            "price": "300.00",
+            "discount": "5.00",
+            "quantity": 1,
+            "category": 4
+        }
+    }   ,
+    {
+        "model": "goods.products",
+        "pk": 13,
+        "fields": {
+            "name": "Медвежонок",
+            "slug": "medvezhonok",
+            "description": "Веселые медвежата.",
+            "image": "goods_images/medvezhonok1.jpg",
+            "price": "150.00",
+            "discount": "5.00",
+            "quantity": 1,
+            "category": 3
+        }
+    }   ,
+    {
+        "model": "goods.products",
+        "pk": 14,
+        "fields": {
+            "name": "Пандочка с листочком",
+            "slug": "pandochka",
+            "description": "Милая пандочка, у нее всегда хорошее настроение.",
+            "image": "goods_images/Lyugushechka1.jpg",
+            "price": "450.00",
+            "discount": "5.00",
+            "quantity": 1,
+            "category": 4
+        }
+    }   ,
+    {
+        "model": "goods.products",
+        "pk": 15,
+        "fields": {
+            "name": "Паучек Боня",
+            "slug": "pauchok-bonya",
+            "description": "Не боись, я сам боюсь)",
+            "image": "goods_images/pauchok-bonya1.jpg",
+            "price": "350.00",
+            "discount": "5.00",
+            "quantity": 1,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 16,
+        "fields": {
+            "name": "пельмень с глазами",
+            "slug": "pelmeshki",
+            "description": "А может по пельмешке?...)",
+            "image": "goods_images/pelmeshki1.jpg",
+            "price": "150.00",
+            "discount": "5.00",
+            "quantity": 1,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 17,
+        "fields": {
+            "name": "Семья скатиков",
+            "slug": "Semya-skatikov",
+            "description": "Милая семья скатиков: малыш-скатик и мамуля-скатик поднимают настроение)",
+            "image": "goods_images/Semya-skatikov1.jpg",
+            "price": "550.00",
+            "discount": "5.00",
+            "quantity": 1,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 18,
+        "fields": {
+            "name": "Сеамский котик",
+            "slug": "Siamskij-kotik",
+            "description": "Маленький милый котик) Мур-р-р, погладь меня за ушком",
+            "image": "goods_images/Siamskij-kotik1.jpg",
+            "price": "200.00",
+            "discount": "5.00",
+            "quantity": 1,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 19,
+        "fields": {
+            "name": "Зубик",
+            "slug": "zubik",
+            "description": "Положи меня под подушку и Зубная Фея оставит тебе много конфет)",
+            "image": "goods_images/zubik1.jpg",
+            "price": "300.00",
+            "discount": "5.00",
+            "quantity": 1,
+            "category": 3
+        }
+    }
+]
