@@ -37,11 +37,3 @@ if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
  
 
-
-"""
-www.site.com/admin/
-www.site.com
-www.site.com/about/
-www.site.com/catalog/
-www.site.com/catalog/product
-"""

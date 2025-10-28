@@ -27,21 +27,3 @@ class AboutView(TemplateView):
         return context
     
 
-# def index(request):
-
-#     context = {
-#         'title': 'Amigurumi - Главная',
-#         'content': "Магазин мебели Amigurumi",
-#     }
-
-#     return render(request, 'main/index.html', context)
-
-
-# def about(request):
-#     context = {
-#         'title': 'Amigurumi - О нас',
-#         'content': "О нас",
-#         'text_on_page': "Текст о том почему этот магазин такой классный, и какой хороший товар."
-#     }
-
-#     return render(request, 'main/about.html', context)

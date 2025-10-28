@@ -14,7 +14,7 @@ class CatalogView(ListView):
     allow_empty = True
     # чтоб удобно передать в методы
     slug_url_kwarg = "category_slug"
-
+ 
     def get_queryset(self):
         category_slug = self.kwargs.get(self.slug_url_kwarg)
         on_sale = self.request.GET.get("on_sale")
